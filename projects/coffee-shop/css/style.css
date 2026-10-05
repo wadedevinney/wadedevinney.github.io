@@ -1,0 +1,33 @@
+body {
+    background-color: darkolivegreen;
+}
+
+.hours {
+    text-align: center;
+    background-color: beige;
+}
+
+.header {
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+
+.see-menu {
+    background-color: beige;
+    text-align: center;
+    width: 130px;
+}
+
+.container {
+    margin: 5em;
+}
+
+hr {
+    color: beige;
+    border: 1.5px solid;
+}
+
+.address {
+    margin: 5em;
+    text-align: center;
+}
