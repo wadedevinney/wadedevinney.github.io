@@ -1,0 +1,78 @@
+.header {
+    font-family: "Baskervvile", serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+body {
+    background-color: lightgray;
+}
+
+h2 {
+    font-family: "Bakskervvile", serif;
+}
+
+p {
+    font-family: "Clarity City", sans-serif;
+}
+
+.about-pic {
+    width: 100%;
+}
+
+.about-wade {
+    padding: 1.5rem;
+}
+
+.top-pic {
+    width: 65%;
+}
+
+.resume-photo {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    height: 450px;
+}
+
+/* Hello Professor,
+Just as a matter of full disclosure, I used AI to learn how to size up the content in the iframe*/
+
+.resume-pdf {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+/*Clips Tower*/
+
+.clips {
+    margin: 3rem 0 3rem 0;
+}
+
+.link-column {
+    padding-left: 20rem;
+}
+
+.tp-column {
+    padding: 0 4rem 0 4rem;
+}
+
+.year-column {
+    padding-right: 4rem;
+}
+
+.publication {
+    color: gray;
+    font-style: italic;
+}
+
+.plus-button {
+    color: inherit;
+    text-decoration: none;
+}
